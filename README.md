@@ -18,6 +18,7 @@ The work is divided into 4 main parts, consisting of a Transition Map where the 
 ![image](https://github.com/blancamarco/LAB1/assets/134495073/52c26389-e3c4-47f9-a301-de81bcae83d7)
 
 Bibliography
+
 Pomés Arnau, P. (2020). Epilepsy surgical outcome prediction based on epileptogenic zone localization with a network competition approach. https://repositori.upf.edu/handle/10230/46528
 
 
