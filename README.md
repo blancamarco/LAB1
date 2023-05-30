@@ -21,7 +21,7 @@ Bibliography
 
 Pomés Arnau, P. (2020). Epilepsy surgical outcome prediction based on epileptogenic zone localization with a network competition approach. https://repositori.upf.edu/handle/10230/46528
 
-
+Author contact: Blanca Marco blancacatalina.marco01@estudiant.upf.es
 
 
 
