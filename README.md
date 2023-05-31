@@ -13,9 +13,11 @@ However, despite the usage of advanced methods for surgical evaluation like intr
 
 The author of the TFG that I am presenting, in his work aimed to comprehend the interactions that take place between pathological and surrounding networks in the epileptic brain in order to delimit the epileptic focus; and, on this basis, offer a safe pre-surgical predictive method to those drug-resistant patients who have no choice but to undergo surgery.
 
-The work is divided into 4 main parts, consisting of a Transition Map where the iEEG signals are preprocessed and summarizes the information about the connectivity changes in the studied areas of the brain; calculate the State Frequency, which allows for the observation of the competition between networks; and calculate the Global Score, which predicts the surgery outcome that is then used to propose a new methodology of Epileptogenic Zone Mapping. 
+The work is divided into 4 main parts, consisting of a Transition Map where the iEEG signals are preprocessed and summarizes the information about the connectivity changes in the studied areas of the brain; calculate the State Frequency, which allows for the observation of the competition between networks; and calculate the Global Score, which predicts the surgery outcome that is then used to propose a new methodology of Epileptogenic Zone Mapping.
 
 ![image](https://github.com/blancamarco/LAB1/assets/134495073/52c26389-e3c4-47f9-a301-de81bcae83d7)
+
+For more information about the proyecto you can go to my Wiki Tab with this link!: https://github.com/blancamarco/LAB1/wiki
 
 Bibliography
 
