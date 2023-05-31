@@ -18,7 +18,7 @@ The work is divided into 4 main parts, consisting of a Transition Map where the 
 ![image](https://github.com/blancamarco/LAB1/assets/134495073/52c26389-e3c4-47f9-a301-de81bcae83d7)
 
 For more information about the proyecto you can go to my Wiki Page with this link!: https://github.com/blancamarco/LAB1/wiki
-If you only want to know more about methodology used in this TFG and its results, use these others links respectively: 
+If you only want to know more about methodology used in this TFG and its results, use these others links respectively: https://github.com/blancamarco/LAB1/wiki/Methodology , 
 
 Bibliography
 
